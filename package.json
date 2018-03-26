@@ -1,0 +1,20 @@
+{
+  "name": "hackaton-style",
+  "version": "1.0.0",
+  "description": "Guia de estilos de Laboratoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "styles",
+    "laboratoria",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
